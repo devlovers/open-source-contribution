@@ -103,3 +103,4 @@ Go over my repos, and if you see any typos & programming bugs/errors, open a PR.
 Add your name and Twitter handle.
 
 - imjoseangel => Twitter: [@imjoseangel](https://twitter.com/imjoseangel) 🐦
+- oxctdev => Twitter: [@andridev_](https://twitter.com/andridev_) 
